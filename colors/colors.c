@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <math.h>
 #define RED_GROUND 3
 #define MAIN_POWER 4
