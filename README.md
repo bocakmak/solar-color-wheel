@@ -1,1 +1,1 @@
-# solar-color-wheel
+# solar_color_wheel
