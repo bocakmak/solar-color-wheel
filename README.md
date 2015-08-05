@@ -24,7 +24,7 @@ What it Does
 Loops through an array of pre-defined colors, blending all colors 
 between the previous and next RGB color set.
 
+#TODO
+======================================================================
 
-# TODO
-Upload fritzing sketch for light circuit and solar charge circuit 
-Diagram
+Fix Fritzing circuit schematics.
