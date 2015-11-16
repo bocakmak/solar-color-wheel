@@ -16,9 +16,7 @@ The Circuit
 ------------
 What it Does
 ------------
-Loops through an array of pre-defined colors, incrementing or decrementing 
-the displayed RGB color to create smooth transitions between the displayed 
-pre-defined colors.
+Loops through an array of pre-defined colors, incrementing or decrementing the displayed RGB color to create smooth transitions between the displayed pre-defined colors.
 ----
 TODO
 ----
