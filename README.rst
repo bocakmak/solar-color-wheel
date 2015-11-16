@@ -1,6 +1,8 @@
 =================
 solar_color_wheel
 =================
+
+-----------
 The Circuit
 -----------
     :Board: Arduino Nano (Atmega328)
@@ -16,9 +18,12 @@ The Circuit
 ------------
 What it Does
 ------------
+
 Loops through an array of pre-defined colors, incrementing or decrementing the displayed RGB color to create smooth transitions between the displayed pre-defined colors.
+
 ----
 TODO
 ----
+
 Fix Fritzing circuit schematic and PCB tabs.
 Put three pack battery holder in fritzing breadboard diagram.
